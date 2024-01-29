@@ -1,5 +1,5 @@
 # Cryptography
-Ctyptography basic algorithms implementation for Encryption, Decryption, and Attack (Additive Cipher, Multiplicative Cipher, Affine Cipher, Vigenere Cipher, RSA, SDES)
+Ctyptography basic algorithms implementation by Python for Encryption, Decryption, and Attack (Additive Cipher, Multiplicative Cipher, Affine Cipher, Vigenere Cipher, RSA, SDES)
 
 Table of Contents:
   1- Additive Cipher 
